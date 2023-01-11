@@ -30,6 +30,8 @@ cd golang
 docker-compose up
 ```
 
+------------
+
 ### Create Fact
 
 ```
