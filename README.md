@@ -1,5 +1,7 @@
 # golang
 
-Run Docker
+### Run Application
 
-#docker-compose up
+```
+docker-compose up
+```
