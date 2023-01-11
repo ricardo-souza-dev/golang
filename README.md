@@ -1,8 +1,5 @@
 # Golang Application Demo
 
-Requirements
-------------
-
 Requires the following to run:
 
   * [Docker][docker]
