@@ -1,4 +1,4 @@
-# golang
+# Golang Application Demo
 
 ### Clone Repo
 
