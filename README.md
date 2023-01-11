@@ -1,4 +1,4 @@
-# Golang Application Demo
+# Golang API Rest
 
 Requires the following to run:
 
